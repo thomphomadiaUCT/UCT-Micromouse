@@ -29,7 +29,6 @@ def drive_straight(distance_m):
     (gyro) to correct heading drift.
     """
     print(f"Driving straight for {distance_m}m...")
-    # Student code here
     # Example (open-loop, prone to errors):
     # uct_mouse.set_motors(50, 50)
     # uct_mouse.delay_ms(1500)
